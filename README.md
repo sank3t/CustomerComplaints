@@ -1,4 +1,4 @@
-# CustomerComplaints
+# Customer Complaints
  
 [Brainwaves Machine Learning Hackathon](https://www.hackerearth.com/challenge/competitive/brainwaves-machine-learning/) hosted by HackerEarth. Problem is to predict the complaint status of the customer based on the following features:
 
